@@ -10,6 +10,7 @@
 5. python manage.py runserver
 
 Доступные URLS:
+
 api/v1/login/
 
 api/v1/survey/create/
